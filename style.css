@@ -1,0 +1,35 @@
+body {
+    background-color:chocolate;
+}
+.band-name {
+    text-align: center;
+    font-size: 48px;
+    font-style: italic;
+    border-color: brown;
+    border:5px 2px 5px 2px;
+    border-style: solid;
+    background-color: chocolate;
+}
+.cover {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+}
+.profile {
+    font-weight: bold;
+}
+.album {
+    font-weight:bold;
+
+}
+.music {
+    font-weight:bold;
+}
+.bien-aime {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+
